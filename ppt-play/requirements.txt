@@ -1,0 +1,3 @@
+ibmiotf==0.2.8
+Flask==0.12.2
+pynput==1.3.6
